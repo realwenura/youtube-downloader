@@ -1,3 +1,3 @@
 # youtube-downloader
 
-Install youtube_dl before use
+Install *youtube_dl* library before use
